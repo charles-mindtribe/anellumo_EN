@@ -1,1 +1,232 @@
-[]
+[
+    {
+        "input": "2H",
+        "aliases": [
+            "2C"
+        ]
+    },
+    {
+        "input": "2L",
+        "aliases": [
+            "2A"
+        ]
+    },
+    {
+        "input": "2M",
+        "aliases": [
+            "2B"
+        ]
+    },
+    {
+        "input": "2U",
+        "aliases": []
+    },
+    {
+        "input": "5H",
+        "aliases": [
+            "5C"
+        ]
+    },
+    {
+        "input": "5HH",
+        "aliases": [
+            "5CC"
+        ]
+    },
+    {
+        "input": "5HHH",
+        "aliases": [
+            "5CCC"
+        ]
+    },
+    {
+        "input": "5HHHH",
+        "aliases": [
+            "5CCCC"
+        ]
+    },
+    {
+        "input": "5HL",
+        "aliases": [
+            "5CA"
+        ]
+    },
+    {
+        "input": "5L",
+        "aliases": [
+            "5A"
+        ]
+    },
+    {
+        "input": "5LL",
+        "aliases": [
+            "5AA"
+        ]
+    },
+    {
+        "input": "5LLL",
+        "aliases": [
+            "5AAA"
+        ]
+    },
+    {
+        "input": "5LLLL",
+        "aliases": [
+            "5AAAA"
+        ]
+    },
+    {
+        "input": "5LM",
+        "aliases": [
+            "5AB"
+        ]
+    },
+    {
+        "input": "5M",
+        "aliases": [
+            "5B"
+        ]
+    },
+    {
+        "input": "5MM",
+        "aliases": [
+            "5BB"
+        ]
+    },
+    {
+        "input": "5MMM",
+        "aliases": [
+            "5BBB"
+        ]
+    },
+    {
+        "input": "5MMMM",
+        "aliases": [
+            "5BBBB"
+        ]
+    },
+    {
+        "input": "5MH",
+        "aliases": [
+            "5BC"
+        ]
+    },
+    {
+        "input": "jH",
+        "aliases": [
+            "jC"
+        ]
+    },
+    {
+        "input": "jL",
+        "aliases": [
+            "jA"
+        ]
+    },
+    {
+        "input": "jM",
+        "aliases": [
+            "jB"
+        ]
+    },
+    {
+        "input": "214H",
+        "aliases": [
+            "214C"
+        ]
+    },
+    {
+        "input": "214L",
+        "aliases": [
+            "214A"
+        ]
+    },
+    {
+        "input": "214M",
+        "aliases": [
+            "214B"
+        ]
+    },
+    {
+        "input": "214U",
+        "aliases": []
+    },
+    {
+        "input": "22H",
+        "aliases": [
+            "22C"
+        ]
+    },
+    {
+        "input": "22L",
+        "aliases": [
+            "22A"
+        ]
+    },
+    {
+        "input": "22M",
+        "aliases": [
+            "22B"
+        ]
+    },
+    {
+        "input": "22U",
+        "aliases": []
+    },
+    {
+        "input": "236H",
+        "aliases": [
+            "236C"
+        ]
+    },
+    {
+        "input": "236L",
+        "aliases": [
+            "236A"
+        ]
+    },
+    {
+        "input": "236M",
+        "aliases": [
+            "236B"
+        ]
+    },
+    {
+        "input": "236U",
+        "aliases": []
+    },
+    {
+        "input": "236236H",
+        "aliases": [
+            "236236C"
+        ]
+    },
+    {
+        "input": "236236U",
+        "aliases": []
+    },
+    {
+        "input": "720U",
+        "aliases": []
+    },
+    {
+        "input": "5U",
+        "aliases": []
+    },
+    {
+        "input": "5UU",
+        "aliases": []
+    },
+    {
+        "input": "6U",
+        "aliases": []
+    },
+    {
+        "input": "jU",
+        "aliases": []
+    },
+    {
+        "input": "jUU",
+        "aliases": []
+    }
+]
